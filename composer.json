@@ -1,9 +1,9 @@
 {
-  "name": "andrew/composer-package",
+  "name": "andrew2603/composer-package",
   "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
   "authors": [
     {
-      "name": "andrew.me",
+      "name": "andrew2603.me",
       "email": "dev@andrew.me"
     }
   ],
