@@ -1,0 +1,22 @@
+{
+  "name": "andrew/composer-package",
+  "description": "Демонстрационный пакет в рамках статьи о создании пакета composer",
+  "authors": [
+    {
+      "name": "andrew.me",
+      "email": "dev@andrew.me"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "require-dev": {
+
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ctrlv\\HelloWorld\\": "src/"
+    }
+  }
+}
